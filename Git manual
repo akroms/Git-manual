@@ -1,0 +1,16 @@
+Git
+
+git init - initalize repo 
+git status - to see git status 
+git add - to add file 
+git commit -m '' - to commit changes 
+git log - info about git status ex. which and who did change to repo 
+git diff - difference between from which is commited file 
+git checkout 'filename' - to restore changes
+
+Github
+
+git remote add origin 'url' - to add adress and name of branches, and changes
+git push -u origin master - to push changes and commits to github host.
+
+
